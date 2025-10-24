@@ -1,0 +1,16 @@
+co/acueducto/sgdea/domain/models/User.class
+co/acueducto/sgdea/domain/port/in/GetUsersUseCase$GetUsersByRolAndDependencyCommand.class
+co/acueducto/sgdea/application/UserApplication.class
+co/acueducto/sgdea/domain/services/UserService.class
+co/acueducto/sgdea/domain/port/out/IdentityProviderUserPort.class
+co/acueducto/sgdea/adapters/IdentityProviderUserAdapter.class
+co/acueducto/sgdea/domain/port/in/GetUsersUseCase$GetUsersByRolAndDependencyCommand$GetUsersByRolAndDependencyCommandBuilder.class
+co/acueducto/sgdea/adapters/dto/UserKeycloakResponse$UserKeycloakResponseBuilder.class
+co/acueducto/sgdea/domain/port/out/IdentityProviderUserPort$GetUsersByRolAndClientUUIDCommand$GetUsersByRolAndClientUUIDCommandBuilder.class
+co/acueducto/sgdea/KeycloakWIHApplication.class
+co/acueducto/sgdea/domain/models/User$UserBuilder.class
+co/acueducto/sgdea/application/UserApplicationFactory.class
+co/acueducto/sgdea/domain/port/out/IdentityProviderUserPort$GetUsersByRolAndClientUUIDCommand.class
+co/acueducto/sgdea/adapters/dto/UserKeycloakResponse.class
+co/acueducto/sgdea/application/config/KeycloakConfig.class
+co/acueducto/sgdea/domain/port/in/GetUsersUseCase.class

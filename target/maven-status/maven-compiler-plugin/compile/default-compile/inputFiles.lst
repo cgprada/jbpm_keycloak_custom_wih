@@ -1,0 +1,10 @@
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/KeycloakWIHApplication.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/application/UserApplicationFactory.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/application/UserApplication.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/domain/models/User.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/domain/port/out/IdentityProviderUserPort.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/adapters/dto/UserKeycloakResponse.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/domain/services/UserService.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/application/config/KeycloakConfig.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/domain/port/in/GetUsersUseCase.java
+/Users/kenantibocha/Documents/KeycloakWIH/src/main/java/co/acueducto/sgdea/adapters/IdentityProviderUserAdapter.java
